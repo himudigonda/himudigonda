@@ -2,7 +2,7 @@
 <h1 style="text-align: center;"> 👋 Hi! I'm Himansh Mudigonda </h1> 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
@@ -41,7 +41,7 @@ acloud-dl                2 mins              █████████░░�
 ```
 
 
- Last Updated on 05/08/2024 01:01:11 UTC
+ Last Updated on 05/08/2024 03:36:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 Let's Connect!
