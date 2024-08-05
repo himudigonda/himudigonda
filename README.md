@@ -2,6 +2,8 @@
 <h1 style="text-align: center;"> 👋 Hi! I'm Himansh Mudigonda </h1> 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 **I'm an Early 🐤** 
@@ -31,14 +33,15 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
+Unknown Project          4 mins              ████████████████░░░░░░░░░   64.32 % 
+acloud-dl                2 mins              █████████░░░░░░░░░░░░░░░░   35.68 % 
 ```
 
 
- Last Updated on 04/08/2024 01:03:42 UTC
+ Last Updated on 05/08/2024 01:01:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 Let's Connect!
