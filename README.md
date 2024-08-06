@@ -2,9 +2,9 @@
 <h1 style="text-align: center;"> 👋 Hi! I'm Himansh Mudigonda </h1> 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
 
 **I'm an Early 🐤** 
 
@@ -33,15 +33,19 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       ███████████████████████░░   93.70 % 
+Terminal                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              ████████████████░░░░░░░░░   64.32 % 
-acloud-dl                2 mins              █████████░░░░░░░░░░░░░░░░   35.68 % 
+FractureFinderAI         1 hr                █████████░░░░░░░░░░░░░░░░   36.14 % 
+Unknown Project          51 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
+endimension              29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+acloud-dl                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+gradle                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 
- Last Updated on 05/08/2024 03:36:55 UTC
+ Last Updated on 06/08/2024 00:59:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 Let's Connect!
