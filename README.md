@@ -1,11 +1,11 @@
-[Resume](https://docs.google.com/document/d/1CKc8khM8-MQzm2kvYjrlrGvkbN9oZyH9YCuXJPehxFE/edit?usp=sharing)
-```@himudigonda``` 
-![](https://komarev.com/ghpvc/?username=himudigonda&color=blue)
-🌐 [himudigonda.me](https://himudigonda.me)
----
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Himansh+Mudigonda!)](https://git.io/typing-svg)
 ---
+
+📄 [Resume](https://docs.google.com/document/d/1CKc8khM8-MQzm2kvYjrlrGvkbN9oZyH9YCuXJPehxFE/edit?usp=sharing)
+
+🌐 [himudigonda.me](https://himudigonda.me)
+
+
 :school: Masters in Computer Science | Arizona State University | Ira A. Fulton Schools of Engineering
 
 :trophy: 2024-2025 Herbold ASU Graduate Engineering Scholarship Recipient
