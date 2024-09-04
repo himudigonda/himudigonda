@@ -1,4 +1,4 @@
-[Resume](https://docs.google.com/document/d/1CKc8khM8-MQzm2kvYjrlrGvkbN9oZyH9YCuXJPehxFE/edit)
+[Resume](https://docs.google.com/document/d/1CKc8khM8-MQzm2kvYjrlrGvkbN9oZyH9YCuXJPehxFE/edit?usp=sharing)
 ```@himudigonda``` 
 ![](https://komarev.com/ghpvc/?username=himudigonda&color=blue)
 🌐 [himudigonda.me](https://himudigonda.me)
