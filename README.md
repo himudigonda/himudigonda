@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&pause=3000&duration=1000&color=FF0000&center=true&width=440&height=70&lines=I'm+Himansh+Mudigonda!)](https://git.io/typing-svg)
+
 ---
 
 📄 [Resume](https://docs.google.com/document/d/1CKc8khM8-MQzm2kvYjrlrGvkbN9oZyH9YCuXJPehxFE/edit?usp=sharing) 🌐 [himudigonda.me](https://himudigonda.me)
@@ -30,8 +31,17 @@ I am great at: Computer Vision, Generative AI, Scalable AI Systems, AI Reasoning
 Feel free to explore my projects and publications.
 
 ---
+![Himansh's Productive Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himudigonda&theme=radical&utcOffset=-7) ![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical)
 
-![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical)
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=himudigonda&margin-w=15&column=9&theme=tokyonight&no-frame=true"/>
+
+
+
+![Himansh's Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himudigonda&theme=radical)
+
+
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=dark)](https://git.io/streak-stats)
