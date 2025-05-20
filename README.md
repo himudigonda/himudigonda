@@ -2,7 +2,7 @@
 
 ---
 
-📄 [Old-Resume](https://docs.google.com/document/d/1CKc8khM8-MQzm2kvYjrlrGvkbN9oZyH9YCuXJPehxFE/edit?usp=sharing) 🌐 [himudigonda.me](https://himudigonda.me)
+📄 [Resume](https://docs.google.com/document/d/1CKc8khM8-MQzm2kvYjrlrGvkbN9oZyH9YCuXJPehxFE/edit?usp=sharing) 🌐 [himudigonda.me](https://himudigonda.me)
 
 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐛𝐮𝐢𝐥𝐝 𝐀𝐈 𝐭𝐡𝐚𝐭'𝐬 🔥
 I am great at: Computer Vision, Generative AI, Scalable AI Systems, AI Reasoning, and Explainability
