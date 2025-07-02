@@ -39,18 +39,8 @@ If you need an engineer who cuts through complexity, ships robust AI pipelines a
 Feel free to explore my projects and publications.
 
 ---
-![Himansh's Productive Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himudigonda&theme=radical&utcOffset=-7) ![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical)
-
-
+![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical) ![Himansh's Productive Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himudigonda&theme=radical&utcOffset=-7) 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=himudigonda&margin-w=15&column=9&theme=tokyonight&no-frame=true"/>
-
-
-
 ![Himansh's Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himudigonda&theme=radical)
 
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=dark)](https://git.io/streak-stats)
-
+[![Himansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=dark)](https://git.io/streak-stats) ![Himansh's Leetcode Stats](https://leetcard.jacoblin.cool/himudigonda)
