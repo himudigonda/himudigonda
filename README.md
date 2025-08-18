@@ -45,7 +45,7 @@ Currently architecting **agentic backends** at [VelocitiPM](https://www.velociti
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical)
-![Productive Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himudigonda&theme=radical&utcOffset=-7)
+![Productive Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himudigonda&theme=radical&utcOffset=-5)
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=himudigonda&margin-w=15&column=9&theme=tokyonight&no-frame=true"/>
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himudigonda&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=dark)](https://git.io/streak-stats)
