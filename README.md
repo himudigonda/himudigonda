@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://himudigonda.me">www.himudigonda.me</a> •
+  <a href="https://himudigonda.me">himudigonda.me</a> •
   <a href="https://www.linkedin.com/in/himudigonda">linkedin.com/in/himudigonda</a> •
   <a href="mailto:himudigonda@gmail.com">himudigonda@gmail.com</a> •
   <a href="https://github.com/himudigonda">github.com/himudigonda</a> •
