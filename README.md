@@ -1,4 +1,4 @@
-![Himansh's Banner](GHBanner.png)
+![Himansh's Banner](GitHub_Banner.png)
 
 ## 🚀 About Me
 
