@@ -20,7 +20,9 @@
 
 ## 🚀 What I Build
 
-Production **LLM systems**, **multi-agent architectures**, and **cloud pipelines** with measurable impact. Recent work:
+Production **LLM systems**, **multi-agent architectures**, and **cloud pipelines** with measurable impact. 
+
+### Recent work:
 - **21-agent, 16-tool LangGraph engine** that automated **80%** of user tasks, boosted **retention +400%**, and cut e2e latency from **8 min → <60 s** at **VelocitiPM**. Median latency down **57%**, peak down **46%** after AWS migration with **RDS, DynamoDB, S3, ElastiCache**.  
 - Benchmarked **8 agent frameworks** on **DABstep**, achieved **DABscore 62.55** (**+18% above baseline**).  
 - Built **Detectron2 pipeline** on **3M+ scans**, cutting latency by **48%**, improving accuracy **+14%**, and trimming training cost **–40% ($20K annual savings)** with Spot GPUs.  
