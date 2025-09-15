@@ -90,7 +90,7 @@ Multi-agent, LangGraph, AutoGen, CrewAI, RAG, embeddings, Pinecone, FAISS, Chrom
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=dark" height="160" alt="Streak"/>
   </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himudigonda&theme=radical&utcOffset=-5" height="160" alt="Productive Hours"/>
- <img src="https://leetcard.jacoblin.cool/himudigonda" height="180" alt="LeetCode Stats"/>
+ <img src="https://leetcard.jacoblin.cool/himudigonda" height="160" alt="LeetCode Stats"/>
 </p>
 
 
