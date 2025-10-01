@@ -3,10 +3,10 @@
   <img src="GH_Banner.png" width="100%" alt="Himansh Banner"/>
 </p>
 
-<h1 align="center">Himansh Mudigonda</h1>
+<!-- <h1 align="center">Himansh Mudigonda</h1>
 <p align="center">
   Architecting <b>agentic AI backends</b> and <b>cloud MLOps</b> that turn <b>minutes into seconds</b> and <b>experiments into shipped systems</b>.
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://himudigonda.me">himudigonda.me</a> •
