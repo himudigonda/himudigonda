@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="GH_Banner.png" width="100%" alt="Himansh Banner"/>
+  <img src="github_banner.png" width="100%" alt="Himansh Banner"/>
 </p>
 
 <!-- <h1 align="center">Himansh Mudigonda</h1>
