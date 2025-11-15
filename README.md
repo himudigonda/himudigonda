@@ -22,28 +22,6 @@
 
 Production **LLM systems**, **multi-agent architectures**, and **cloud pipelines** with measurable impact. 
 
----
-
-## Skills Matrix
-
-| **Category** | **Tools and platforms** |
-|---|---|
-| **Languages** | Python, C++, Rust, Go, Java, SQL, CUDA, Bash |
-| **LLM Training, Finetuning & Alignment** | LLaMA family, Mistral, GPT family, Claude, PaLI-3, Qwen-VL, BLIP, CLIP, DINOv2, I-JEPA |
-| **Agents & orchestration** | LangGraph, LangChain, LangSmith, AutoGen, CrewAI, LlamaIndex, RAG pipelines, Ray (task orchestration), MLFlow |
-| **Training & optimization** | PyTorch, JAX, TensorFlow, Hugging Face Transformers, LoRA, mixed precision, quantization, PTQ, distillation, Optuna, ONNX, Triton |
-| **Vision & CV** | Detectron2, MMDetection, timm, torchvision, OpenCV, Albumentations |
-| **NLP infra** | Hugging Face tokenizers, sentencepiece, spaCy, sentence-transformers |
-| **Retrieval & vector DBs** | Weaviate, Pinecone, FAISS, Chroma, Redis Vector, OpenSearch |
-| **Databases & storage** | PostgreSQL, DynamoDB, MongoDB, Redis, S3, Parquet, Delta Lake |
-| **Cloud & MLOps** | AWS (EKS, Lambda, SageMaker, API Gateway, Bedrock, Step Functions, CloudFormation, IAM, CloudWatch), Azure, GCP BigQuery, Docker, Kubernetes, Terraform, GitHub Actions |
-| **Data engineering** | Kafka, Kinesis, Spark, Airflow, Beam, Parquet, Arrow |
-| **Backend & APIs** | FastAPI, gRPC, REST, WebSockets, GraphQL, auth patterns, Rate Limiting, OpenTelemetry tracing |
-| **Observability & QA** | Prometheus, Grafana, OpenTelemetry, Loki, Sentry, pytest, chaos testing |
-| **Collaboration & delivery** | System Design, CI/CD pipelines, ADRs, Design Docs, Code Review, Reproducible Infra and Experiments |
-
----
-
 ## Publications & Recognition
 
 - **Scientific Reports (Nature Q1)** – ML for non-invasive glucose monitoring  
@@ -51,7 +29,6 @@ Production **LLM systems**, **multi-agent architectures**, and **cloud pipelines
 - **3× Scholar**: ASU Fellowship 2023, Herbold 2024, SRM Merit  
 - Architected systems **adopted by 3 startups**  
 
----
 
 ## How I work
 - Product-first: ship experiments that produce measurable user outcomes.  
@@ -59,12 +36,9 @@ Production **LLM systems**, **multi-agent architectures**, and **cloud pipelines
 - Test-first: TDD and benchmark suites validate changes before rollouts.  
 - Cross-discipline: integrate systems engineering, ML research, and product telemetry.
 
----
-
 ## Open to
 Full time backend/ML roles, contractor AI systems work, tech talks, and collaborations on agentic AI and scalable inference.
 
----
 
 ## Cards
 
