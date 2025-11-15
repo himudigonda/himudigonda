@@ -16,8 +16,6 @@
   <a href="https://bit.ly/himudigonda-resume">bit.ly/himudigonda-resume</a>
 </p>
 
----
-
 ## TL;DR
 
 Production **LLM systems**, **multi-agent architectures**, and **cloud pipelines** with measurable impact. 
@@ -67,8 +65,6 @@ Full time backend/ML roles, contractor AI systems work, tech talks, and collabor
 
 <!-- LeetCode -->
 
-
----
 
 ## Contact
 
