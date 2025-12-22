@@ -1,12 +1,11 @@
-<!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="github_banner.png" width="100%" alt="Himansh Banner"/>
-</p>
-
-<!-- <h1 align="center">Himansh Mudigonda</h1>
-<p align="center">
-  Architecting <b>agentic AI backends</b> and <b>cloud MLOps</b> that turn <b>minutes into seconds</b> and <b>experiments into shipped systems</b>.
 </p> -->
+
+<h1 align="center">Himansh Mudigonda</h1>
+<p align="center">
+  <b>Backend + ML Engineer</b> with 2+ years of experience bridging <b>distributed systems</b>, <b>data infrastructure</b>, and <b>AI models.</b> Specialized in building fault-tolerant scalable <b>microservices</b>, optimizing inference costs, and automating MLOps pipelines. <b>Open to relocate.</b>
+</p>
 
 <p align="center">
   <a href="https://himudigonda.me">himudigonda.me</a> •
@@ -16,55 +15,22 @@
   <a href="https://bit.ly/himudigonda-resume">bit.ly/himudigonda-resume</a>
 </p>
 
-## TL;DR
-
-Production **LLM systems**, **multi-agent architectures**, and **cloud pipelines** with measurable impact. 
-
 ## Publications & Recognition
-
 - **Scientific Reports (Nature Q1)** – ML for non-invasive glucose monitoring  
 - **ICCCNT 2022** – Advances in Face Recognition  
 - **3× Scholar**: ASU Fellowship 2023, Herbold 2024, SRM Merit  
 - Architected systems **adopted by 3 startups**  
 
-
-## How I work
-- Product-first: ship experiments that produce measurable user outcomes.  
-- Metrics-driven: latency, cost, retention, and precision guide design tradeoffs.  
-- Test-first: TDD and benchmark suites validate changes before rollouts.  
-- Cross-discipline: integrate systems engineering, ML research, and product telemetry.
-
 ## Open to
 Full time backend/ML roles, contractor AI systems work, tech talks, and collaborations on agentic AI and scalable inference.
 
-
 ## Cards
+<img src="https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himudigonda&layout=compact&theme=radical" height="160" alt="Top Languages"/>  
 
-<!-- Core stats -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himudigonda&layout=compact&theme=radical" height="160" alt="Top Languages"/>  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himudigonda&theme=radical" height="160" alt="Summary stats"/> 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=radical" height="160" alt="Streak"/> -->
 
-
-<!-- Activity and streaks -->
-<p>
-  <!-- <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=dark" height="160" alt="Streak"/>
-  </a> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himudigonda&theme=radical&utcOffset=-5" height="160" alt="Productive Hours"/>
- <img src="https://leetcard.jacoblin.cool/himudigonda" height="160" alt="LeetCode Stats"/>
-</p>
-
-
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=himudigonda&margin-w=15&column=9&theme=tokyonight&no-frame=true" width="100%" alt="Trophies"/>
-
-<!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himudigonda&theme=tokyo-night" width="100%" alt="Activity Graph"/>
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himudigonda&theme=radical" width="100%" alt="Profile Details"/> -->
-
-<!-- LeetCode -->
-
+<img width="80%" src="https://github-trophies.vercel.app/?username=himudigonda&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Stars,Followers,Reviews,Repositories,Issues" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himudigonda&theme=radical" width="100%" alt="Profile Details"/>
 
 ## Contact
 
