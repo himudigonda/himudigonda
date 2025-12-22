@@ -29,7 +29,7 @@ Full time backend/ML roles, contractor AI systems work, tech talks, and collabor
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=radical" height="160" alt="Streak"/> -->
 
-<img width="80%" src="https://github-trophies.vercel.app/?username=himudigonda&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Stars,Followers,Reviews,Repositories,Issues" alt="Trophies" />
+<img width="80%" src="https://github-trophies.vercel.app/?username=himudigonda&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Commits,PullRequest,Stars,Followers,Reviews,Repositories,Issues" alt="Trophies" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himudigonda&theme=radical" width="100%" alt="Profile Details"/>
 
 ## Contact
