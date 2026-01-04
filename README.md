@@ -25,6 +25,10 @@
 Full time backend/ML roles, contractor AI systems work, tech talks, and collaborations on agentic AI and scalable inference.
 
 ## Cards
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himudigonda&layout=compact&theme=radical" height="160" alt="Top Languages"/>  
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=radical" height="160" alt="Streak"/> -->
