@@ -3,43 +3,51 @@
 </p> -->
 
 <h1 align="center">Himansh Mudigonda</h1>
+
 <p align="center">
-  <b>Backend + ML Engineer</b> with 2+ years of experience bridging <b>distributed systems</b>, <b>data infrastructure</b>, and <b>AI models.</b> Specialized in building fault-tolerant scalable <b>microservices</b>, optimizing inference costs, and automating MLOps pipelines. <b>Open to relocate.</b>
+<b>Experienced in backend systems and distributed computing, machine learning systems and model deployment, production-grade LLM and agentic AI workflows, and infrastructure-driven MLOps at scale.</b>  
+<b>Open to relocate.</b>
 </p>
 
 <p align="center">
-  <a href="https://himudigonda.me">himudigonda.me</a> •
-  <a href="https://www.linkedin.com/in/himudigonda">linkedin.com/in/himudigonda</a> •
-  <a href="mailto:himudigonda@gmail.com">himudigonda@gmail.com</a> •
-  <a href="https://github.com/himudigonda">github.com/himudigonda</a> •
-  <a href="https://bit.ly/himudigonda-resume">bit.ly/himudigonda-resume</a>
+  🌐 <a href="https://himudigonda.me">www.himudigonda.me</a> •
+  🧑‍💼 <a href="https://www.linkedin.com/in/himudigonda">linkedin.com/in/himudigonda</a> •
+  📧 <a href="mailto:himudigonda@gmail.com">himudigonda@gmail.com</a> •
+  🐙 <a href="https://github.com/himudigonda">github.com/himudigonda</a>
 </p>
 
-## Publications & Recognition
-- **Scientific Reports (Nature Q1)** – ML for non-invasive glucose monitoring  
-- **ICCCNT 2022** – Advances in Face Recognition  
-- **3× Scholar**: ASU Fellowship 2023, Herbold 2024, SRM Merit  
-- Architected systems **adopted by 3 startups**  
+## Tech Stack
 
-## Open to
-Full time backend/ML roles, contractor AI systems work, tech talks, and collaborations on agentic AI and scalable inference.
+**Languages**  
+Go, Python, C++, Java, SQL, CUDA  
 
-## Cards
+**AI & ML**  
+Agentic workflows including multi-agent orchestration and MCPs, LLM fine-tuning and alignment, RAG, PyTorch, TensorFlow, HuggingFace, Transformers, ONNX  
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**Infrastructure**  
+AWS (EKS, CDK, Lambda, SageMaker), Kubernetes, Docker, Terraform, GCP  
 
-<img src="https://github-readme-stats.vercel.app/api?username=himudigonda&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himudigonda&layout=compact&theme=radical" height="160" alt="Top Languages"/>  
+**Systems**  
+Distributed systems, event-driven architectures (Kafka, Kinesis, SQS/SNS), gRPC-based services, MLOps pipelines  
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=himudigonda&theme=radical" height="160" alt="Streak"/> -->
+**Data**  
+PostgreSQL, DynamoDB, Redis, Elasticsearch, vector databases (Pinecone, Chroma, Weaviate, FAISS)  
 
-<img width="80%" src="https://github-trophies.vercel.app/?username=himudigonda&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Commits,PullRequest,Stars,Followers,Reviews,Repositories,Issues" alt="Trophies" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himudigonda&theme=radical" width="100%" alt="Profile Details"/>
+## Publications & Awards
 
-## Contact
+- **Nature Portfolio Author**  
+  Scientific Reports  
+- **IEEE Author**  
+  Research collaborations with IIIT Kerala and IIT Kharagpur  
+- **Scholarships and Recognition**  
+  - Herbold Scholarship 2024  
+  - ASU Fellowship 2023  
+  - SRM Merit Scholarship 2019–2023  
 
-- 🌐 **Website:** [himudigonda.me](https://himudigonda.me)  
-- 🫱🏽‍🫲🏻 **LinkedIn:** [linkedin.com/in/himudigonda](https://www.linkedin.com/in/himudigonda)  
-- 🐙 **GitHub:** [github.com/himudigonda](https://github.com/himudigonda)  
-- 📧 **Email:** [himudigonda@gmail.com](mailto:himudigonda@gmail.com)  
-- 📄 **Resume:** [bit.ly/himudigonda-resume](https://bit.ly/himudigonda-resume)
+## Open To
+
+- ML Engineer roles  
+- LLM and Agentic AI Engineer roles  
+- Backend Engineer roles  
+
+Interested in fast-paced teams building real production systems under real constraints.
