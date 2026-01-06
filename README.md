@@ -51,3 +51,6 @@ PostgreSQL, DynamoDB, Redis, Elasticsearch, vector databases (Pinecone, Chroma, 
 - Backend Engineer roles  
 
 Interested in fast-paced teams building real production systems under real constraints.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
