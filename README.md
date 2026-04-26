@@ -4,17 +4,20 @@
 
 <h1 align="center">Himansh Mudigonda</h1>
 
+
 <p align="center">
 <b>Experienced in backend systems and distributed computing, machine learning systems and model deployment, production-grade LLM and agentic AI workflows, and infrastructure-driven MLOps at scale.</b>  
 <b>Open to relocate.</b>
 </p>
 
-<p align="center">
+<p align="center">  
   🌐 <a href="https://himudigonda.me">www.himudigonda.me</a> •
   🧑‍💼 <a href="https://www.linkedin.com/in/himudigonda">linkedin.com/in/himudigonda</a> •
   📧 <a href="mailto:himudigonda@gmail.com">himudigonda@gmail.com</a> •
   🐙 <a href="https://github.com/himudigonda">github.com/himudigonda</a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=himudigonda&color=blue)
 
 ## Tech Stack
 
