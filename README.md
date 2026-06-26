@@ -1,57 +1,28 @@
-<!-- <p align="center">
-  <img src="github_banner.png" width="100%" alt="Himansh Banner"/>
-</p> -->
-
 <h1 align="center">Himansh Mudigonda</h1>
 
+<p align="center">
+<b>AI Engineer @ RTA Fleet | 2x Founding Engineer | Nature Journal Author</b>
+</p>
 
 <p align="center">
-<b>Experienced in backend systems and distributed computing, machine learning systems and model deployment, production-grade LLM and agentic AI workflows, and infrastructure-driven MLOps at scale.</b>  
-<b>Open to relocate.</b>
+RTA: The Fleet Success Company · Arizona State University
 </p>
 
-<p align="center">  
-  🌐 <a href="https://himudigonda.me">www.himudigonda.me</a> •
-  🧑‍💼 <a href="https://www.linkedin.com/in/himudigonda">linkedin.com/in/himudigonda</a> •
-  📧 <a href="mailto:himudigonda@gmail.com">himudigonda@gmail.com</a> •
-  🐙 <a href="https://github.com/himudigonda">github.com/himudigonda</a>
+<p align="center">
+🌐 <a href="https://himudigonda.me">himudigonda.me</a> • 
+🔗 <a href="https://linkedin.com/in/himudigonda">LinkedIn</a> • 
+🐙 <a href="https://github.com/himudigonda">GitHub</a> • 
+📧 <a href="mailto:himudigonda@gmail.com">himudigonda@gmail.com</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=himudigonda&color=blue)
+---
 
-## Tech Stack
+## Now
 
-**Languages**  
-Go, Python, C++, Java, SQL, CUDA  
+⚙️ **AI Engineer @RTA Fleet**: Fleet optimization and intelligence that actually works.
 
-**AI & ML**  
-Agentic workflows including multi-agent orchestration and MCPs, LLM fine-tuning and alignment, RAG, PyTorch, TensorFlow, HuggingFace, Transformers, ONNX  
+👨🏽‍💻 **Architecting crazy-ass stealth projects**: Now that I work!
 
-**Infrastructure**  
-AWS (EKS, CDK, Lambda, SageMaker), Kubernetes, Docker, Terraform, GCP  
+---
 
-**Systems**  
-Distributed systems, event-driven architectures (Kafka, Kinesis, SQS/SNS), gRPC-based services, MLOps pipelines  
-
-**Data**  
-PostgreSQL, DynamoDB, Redis, Elasticsearch, vector databases (Pinecone, Chroma, Weaviate, FAISS)  
-
-## Publications & Awards
-
-- **Nature Portfolio Author**  
-  Scientific Reports  
-- **IEEE Author**  
-  Research collaborations with IIIT Kerala and IIT Kharagpur  
-- **Scholarships and Recognition**  
-  - Herbold Scholarship 2024  
-  - ASU Fellowship 2023  
-  - SRM Merit Scholarship 2019–2023  
-
-## Open To
-
-- ML Engineer roles  
-- LLM and Agentic AI Engineer roles  
-- Backend Engineer roles  
-
-Interested in fast-paced teams building real production systems under real constraints.
-
+<p align="center"> <img src="https://githubcard.com/himudigonda.svg?d=1" alt="himudigonda" /></p>
